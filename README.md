@@ -8,6 +8,7 @@
 
 ![Matheus-Monteiro2001 GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Monteiro2001&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Monteiro2001&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 OS
 
