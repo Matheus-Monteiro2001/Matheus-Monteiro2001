@@ -29,9 +29,6 @@
     <br/>
     <br/>
     <img align="center" alt="google-cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img align="center" alt="microsoft-excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-    <img align="center" alt="microsoft-office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-    <img align="center" alt="microsoft-word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
     <br/>
     <br/>
     <img align="center" alt="pic" height="160" style="border-radius:10px;" src="https://img.ibxk.com.br/2015/07/15/15105231448568.gif">
