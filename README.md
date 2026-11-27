@@ -65,19 +65,24 @@ Study notes and practical examples covering Git and GitHub, including commits, b
 ## Estatísticas GitHub | GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheus-Monteiro2001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Monteiro2001&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/Matheus-Monteiro2001?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Ver%20no%20GitHub-181717?style=for-the-badge&logo=github" alt="Repositories on GitHub" />
+  </a>
+  <img src="https://img.shields.io/github/followers/Matheus-Monteiro2001?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Matheus-Monteiro2001/Matheus-Monteiro2001?label=Profile%20repo%20stars&style=for-the-badge&logo=github&color=181717" alt="Profile repository stars" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus-Monteiro2001&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <sub>Veja os repositórios e atividades diretamente no GitHub para consultar os dados atualizados.</sub>
 </p>
 
 ## Contribuições | Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Matheus-Monteiro2001/Matheus-Monteiro2001/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheus-Monteiro2001/Matheus-Monteiro2001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Monteiro2001/Matheus-Monteiro2001/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/Matheus-Monteiro2001/Matheus-Monteiro2001/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
